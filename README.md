@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sunflower-code1
-- 👀 I’m interested in GeoAI,Spatial Data Science,NLP,Remote Sensing.
+- 👀 I’m interested in GeoAI,Computer Vision,NLP,Remote Sensing.
 - 🌱 I’m currently learning NN
 - 💞️ I’m looking to collaborate on any project on Geospatial AI
 - 📫 How to reach me @maryblesing0108@gmai.com
