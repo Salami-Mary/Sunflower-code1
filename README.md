@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Sunflower-code1
-- 👀 I’m interested in GeoAI,Data Aanalysis,Machine Learning,Computer Vision,NLP,Remote Sensing.
+- 👀 I’m interested in GeoAI,Machine Learning,Computer Vision,NLP,Remote Sensing.
+- :running_woman: Running with Data Storytelling 
 - 🌱 I believe in learning by doing 
-- 💞️ I’m looking to collaborate on any project on Geospatial AI
+- 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me @maryblesing0108@gmai.com
 
 <!---
